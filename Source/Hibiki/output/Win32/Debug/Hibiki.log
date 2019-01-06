@@ -1,0 +1,18 @@
+﻿  u64tostr.c
+  ultohex.c
+  ultostr.c
+  util.c
+  windefend.c
+  _strcat.c
+  _strcmp.c
+  _strcmpi.c
+  _strcpy.c
+  _strend.c
+  _strlen.c
+  _strncmp.c
+  _strncmpi.c
+  _strncpy.c
+  _strstri.c
+  dllmain.c
+  Generating Code...
+  Hibiki.vcxproj -> C:\Users\IEUser\source\repos\UACMe\UACME\Source\Hibiki\.\output\Win32\Debug\Hibiki32.dll

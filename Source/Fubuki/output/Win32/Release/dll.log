@@ -1,0 +1,18 @@
+﻿  u64tostr.c
+  ultohex.c
+  ultostr.c
+  util.c
+  windefend.c
+  _filename.c
+  _strcat.c
+  _strcmpi.c
+  _strcpy.c
+  _strend.c
+  _strlen.c
+  _strncpy.c
+  _strstri.c
+  dllmain.c
+     Creating library .\output\Win32\Release\Fubuki32.lib and object .\output\Win32\Release\Fubuki32.exp
+  Generating code
+  Finished generating code
+  dll.vcxproj -> C:\Users\IEUser\source\repos\UACMe\UACME\Source\Fubuki\.\output\Win32\Release\Fubuki32.dll
